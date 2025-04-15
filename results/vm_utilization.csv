@@ -1,0 +1,10 @@
+VMID,CloudletCount,MIPSUtilization
+0,3,Infinity
+1,2,Infinity
+2,5,Infinity
+3,5,Infinity
+4,0,NaN
+5,0,NaN
+6,5,Infinity
+7,5,Infinity
+8,0,NaN

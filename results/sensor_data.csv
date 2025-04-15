@@ -1,0 +1,251 @@
+TimeStep,SensorID,SensorType,Value
+0,0,Heart Rate Monitor,82.00
+1,0,Heart Rate Monitor,94.00
+2,0,Heart Rate Monitor,99.00
+3,0,Heart Rate Monitor,72.00
+4,0,Heart Rate Monitor,99.00
+5,0,Heart Rate Monitor,68.00
+6,0,Heart Rate Monitor,78.00
+7,0,Heart Rate Monitor,73.00
+8,0,Heart Rate Monitor,95.00
+9,0,Heart Rate Monitor,93.00
+0,1,Heart Rate Monitor,95.00
+1,1,Heart Rate Monitor,75.00
+2,1,Heart Rate Monitor,80.00
+3,1,Heart Rate Monitor,90.00
+4,1,Heart Rate Monitor,70.00
+5,1,Heart Rate Monitor,97.00
+6,1,Heart Rate Monitor,90.00
+7,1,Heart Rate Monitor,74.00
+8,1,Heart Rate Monitor,60.00
+9,1,Heart Rate Monitor,71.00
+0,2,Heart Rate Monitor,89.00
+1,2,Heart Rate Monitor,74.00
+2,2,Heart Rate Monitor,76.00
+3,2,Heart Rate Monitor,87.00
+4,2,Heart Rate Monitor,90.00
+5,2,Heart Rate Monitor,92.00
+6,2,Heart Rate Monitor,70.00
+7,2,Heart Rate Monitor,62.00
+8,2,Heart Rate Monitor,93.00
+9,2,Heart Rate Monitor,70.00
+0,3,Heart Rate Monitor,67.00
+1,3,Heart Rate Monitor,90.00
+2,3,Heart Rate Monitor,70.00
+3,3,Heart Rate Monitor,74.00
+4,3,Heart Rate Monitor,92.00
+5,3,Heart Rate Monitor,89.00
+6,3,Heart Rate Monitor,69.00
+7,3,Heart Rate Monitor,96.00
+8,3,Heart Rate Monitor,75.00
+9,3,Heart Rate Monitor,67.00
+0,4,Heart Rate Monitor,64.00
+1,4,Heart Rate Monitor,83.00
+2,4,Heart Rate Monitor,93.00
+3,4,Heart Rate Monitor,75.00
+4,4,Heart Rate Monitor,90.00
+5,4,Heart Rate Monitor,61.00
+6,4,Heart Rate Monitor,62.00
+7,4,Heart Rate Monitor,84.00
+8,4,Heart Rate Monitor,95.00
+9,4,Heart Rate Monitor,67.00
+0,5,RFID Tag Scanner,9090.00
+1,5,RFID Tag Scanner,7686.00
+2,5,RFID Tag Scanner,5103.00
+3,5,RFID Tag Scanner,4669.00
+4,5,RFID Tag Scanner,2625.00
+5,5,RFID Tag Scanner,4052.00
+6,5,RFID Tag Scanner,4479.00
+7,5,RFID Tag Scanner,8353.00
+8,5,RFID Tag Scanner,6474.00
+9,5,RFID Tag Scanner,8225.00
+0,6,RFID Tag Scanner,1917.00
+1,6,RFID Tag Scanner,5032.00
+2,6,RFID Tag Scanner,115.00
+3,6,RFID Tag Scanner,7927.00
+4,6,RFID Tag Scanner,3142.00
+5,6,RFID Tag Scanner,3932.00
+6,6,RFID Tag Scanner,7377.00
+7,6,RFID Tag Scanner,7435.00
+8,6,RFID Tag Scanner,9690.00
+9,6,RFID Tag Scanner,7398.00
+0,7,RFID Tag Scanner,3327.00
+1,7,RFID Tag Scanner,2017.00
+2,7,RFID Tag Scanner,6940.00
+3,7,RFID Tag Scanner,810.00
+4,7,RFID Tag Scanner,8149.00
+5,7,RFID Tag Scanner,5790.00
+6,7,RFID Tag Scanner,332.00
+7,7,RFID Tag Scanner,152.00
+8,7,RFID Tag Scanner,3629.00
+9,7,RFID Tag Scanner,2073.00
+0,8,RFID Tag Scanner,6771.00
+1,8,RFID Tag Scanner,7373.00
+2,8,RFID Tag Scanner,6507.00
+3,8,RFID Tag Scanner,4129.00
+4,8,RFID Tag Scanner,6732.00
+5,8,RFID Tag Scanner,2610.00
+6,8,RFID Tag Scanner,5236.00
+7,8,RFID Tag Scanner,8555.00
+8,8,RFID Tag Scanner,8597.00
+9,8,RFID Tag Scanner,9196.00
+0,9,RFID Tag Scanner,1436.00
+1,9,RFID Tag Scanner,8333.00
+2,9,RFID Tag Scanner,7619.00
+3,9,RFID Tag Scanner,9474.00
+4,9,RFID Tag Scanner,6329.00
+5,9,RFID Tag Scanner,1103.00
+6,9,RFID Tag Scanner,3822.00
+7,9,RFID Tag Scanner,1961.00
+8,9,RFID Tag Scanner,6917.00
+9,9,RFID Tag Scanner,9064.00
+0,10,Proximity Sensor,128.60
+1,10,Proximity Sensor,55.23
+2,10,Proximity Sensor,82.47
+3,10,Proximity Sensor,85.68
+4,10,Proximity Sensor,20.10
+5,10,Proximity Sensor,105.20
+6,10,Proximity Sensor,83.33
+7,10,Proximity Sensor,71.29
+8,10,Proximity Sensor,129.93
+9,10,Proximity Sensor,190.94
+0,11,Proximity Sensor,95.41
+1,11,Proximity Sensor,77.69
+2,11,Proximity Sensor,45.71
+3,11,Proximity Sensor,49.33
+4,11,Proximity Sensor,4.98
+5,11,Proximity Sensor,197.61
+6,11,Proximity Sensor,155.82
+7,11,Proximity Sensor,187.06
+8,11,Proximity Sensor,48.92
+9,11,Proximity Sensor,126.51
+0,12,Proximity Sensor,188.35
+1,12,Proximity Sensor,145.25
+2,12,Proximity Sensor,158.54
+3,12,Proximity Sensor,22.71
+4,12,Proximity Sensor,94.96
+5,12,Proximity Sensor,198.64
+6,12,Proximity Sensor,169.57
+7,12,Proximity Sensor,57.74
+8,12,Proximity Sensor,166.27
+9,12,Proximity Sensor,185.92
+0,13,Proximity Sensor,74.00
+1,13,Proximity Sensor,131.31
+2,13,Proximity Sensor,183.41
+3,13,Proximity Sensor,16.89
+4,13,Proximity Sensor,5.31
+5,13,Proximity Sensor,199.45
+6,13,Proximity Sensor,132.98
+7,13,Proximity Sensor,37.22
+8,13,Proximity Sensor,109.83
+9,13,Proximity Sensor,139.44
+0,14,Proximity Sensor,87.02
+1,14,Proximity Sensor,100.30
+2,14,Proximity Sensor,164.96
+3,14,Proximity Sensor,21.67
+4,14,Proximity Sensor,66.71
+5,14,Proximity Sensor,122.58
+6,14,Proximity Sensor,30.25
+7,14,Proximity Sensor,194.31
+8,14,Proximity Sensor,144.90
+9,14,Proximity Sensor,18.62
+0,15,Temperature Sensor,23.65
+1,15,Temperature Sensor,22.34
+2,15,Temperature Sensor,27.39
+3,15,Temperature Sensor,27.69
+4,15,Temperature Sensor,23.74
+5,15,Temperature Sensor,15.97
+6,15,Temperature Sensor,21.02
+7,15,Temperature Sensor,29.94
+8,15,Temperature Sensor,21.73
+9,15,Temperature Sensor,26.86
+0,16,Temperature Sensor,17.24
+1,16,Temperature Sensor,25.07
+2,16,Temperature Sensor,21.04
+3,16,Temperature Sensor,19.11
+4,16,Temperature Sensor,18.93
+5,16,Temperature Sensor,22.80
+6,16,Temperature Sensor,26.36
+7,16,Temperature Sensor,19.93
+8,16,Temperature Sensor,29.31
+9,16,Temperature Sensor,18.19
+0,17,Temperature Sensor,22.37
+1,17,Temperature Sensor,23.23
+2,17,Temperature Sensor,29.39
+3,17,Temperature Sensor,26.15
+4,17,Temperature Sensor,24.40
+5,17,Temperature Sensor,20.22
+6,17,Temperature Sensor,15.43
+7,17,Temperature Sensor,19.40
+8,17,Temperature Sensor,21.76
+9,17,Temperature Sensor,21.10
+0,18,Temperature Sensor,18.72
+1,18,Temperature Sensor,20.60
+2,18,Temperature Sensor,15.64
+3,18,Temperature Sensor,28.18
+4,18,Temperature Sensor,18.83
+5,18,Temperature Sensor,29.55
+6,18,Temperature Sensor,24.46
+7,18,Temperature Sensor,25.50
+8,18,Temperature Sensor,28.70
+9,18,Temperature Sensor,20.00
+0,19,Temperature Sensor,17.80
+1,19,Temperature Sensor,16.61
+2,19,Temperature Sensor,16.92
+3,19,Temperature Sensor,29.96
+4,19,Temperature Sensor,22.70
+5,19,Temperature Sensor,29.39
+6,19,Temperature Sensor,17.10
+7,19,Temperature Sensor,18.83
+8,19,Temperature Sensor,26.55
+9,19,Temperature Sensor,17.13
+0,20,AI Camera,0.17
+1,20,AI Camera,0.23
+2,20,AI Camera,0.66
+3,20,AI Camera,0.24
+4,20,AI Camera,0.27
+5,20,AI Camera,0.98
+6,20,AI Camera,0.59
+7,20,AI Camera,0.51
+8,20,AI Camera,0.42
+9,20,AI Camera,0.71
+0,21,AI Camera,0.96
+1,21,AI Camera,0.11
+2,21,AI Camera,0.14
+3,21,AI Camera,0.12
+4,21,AI Camera,0.51
+5,21,AI Camera,0.69
+6,21,AI Camera,0.13
+7,21,AI Camera,0.75
+8,21,AI Camera,0.81
+9,21,AI Camera,0.52
+0,22,AI Camera,0.83
+1,22,AI Camera,0.43
+2,22,AI Camera,0.64
+3,22,AI Camera,0.08
+4,22,AI Camera,0.59
+5,22,AI Camera,0.66
+6,22,AI Camera,0.74
+7,22,AI Camera,0.35
+8,22,AI Camera,0.32
+9,22,AI Camera,0.28
+0,23,AI Camera,0.00
+1,23,AI Camera,0.22
+2,23,AI Camera,0.02
+3,23,AI Camera,0.63
+4,23,AI Camera,0.93
+5,23,AI Camera,0.85
+6,23,AI Camera,0.99
+7,23,AI Camera,0.82
+8,23,AI Camera,0.07
+9,23,AI Camera,0.89
+0,24,AI Camera,0.62
+1,24,AI Camera,0.61
+2,24,AI Camera,0.98
+3,24,AI Camera,0.85
+4,24,AI Camera,0.69
+5,24,AI Camera,0.79
+6,24,AI Camera,0.74
+7,24,AI Camera,0.43
+8,24,AI Camera,0.34
+9,24,AI Camera,0.49

@@ -1,0 +1,26 @@
+CloudletID,SensorType,DCID,VMID,ExecTime,StartTime,FinishTime
+9,RFID Tag Scanner,2,1,50.00,0.10,50.10
+19,Temperature Sensor,2,1,50.00,0.10,50.10
+4,Heart Rate Monitor,2,0,75.00,0.10,75.10
+14,Proximity Sensor,2,0,75.00,0.10,75.10
+24,AI Camera,2,0,75.00,0.10,75.10
+3,Heart Rate Monitor,2,7,100.00,0.10,100.10
+8,RFID Tag Scanner,2,7,100.00,0.10,100.10
+13,Proximity Sensor,2,7,100.00,0.10,100.10
+18,Temperature Sensor,2,7,100.00,0.10,100.10
+23,AI Camera,2,7,100.00,0.10,100.10
+6,RFID Tag Scanner,2,2,150.00,0.10,150.10
+16,Temperature Sensor,2,2,150.00,0.10,150.10
+1,Heart Rate Monitor,2,3,150.00,0.10,150.10
+11,Proximity Sensor,2,3,150.00,0.10,150.10
+21,AI Camera,2,3,150.00,0.10,150.10
+5,RFID Tag Scanner,2,3,190.00,0.10,190.10
+15,Temperature Sensor,2,3,190.00,0.10,190.10
+2,Heart Rate Monitor,2,6,200.00,0.10,200.10
+7,RFID Tag Scanner,2,6,200.00,0.10,200.10
+12,Proximity Sensor,2,6,200.00,0.10,200.10
+17,Temperature Sensor,2,6,200.00,0.10,200.10
+22,AI Camera,2,6,200.00,0.10,200.10
+0,Heart Rate Monitor,2,2,210.00,0.10,210.10
+10,Proximity Sensor,2,2,210.00,0.10,210.10
+20,AI Camera,2,2,210.00,0.10,210.10
